@@ -1,0 +1,1 @@
+{"branch": "${git_branch!}", "version": "${git_build_version!}", "rev": "${git_commit_abbrev!}"}
